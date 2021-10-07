@@ -1,2 +1,78 @@
-# weisheng.github.io
-Project website
+<!DOCTYPE html>
+<html>
+
+  <head>
+    
+      <title>Rafting Adventures • Home</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="/styles.css">
+    
+  </head>
+
+  <body>
+    <div id="content">
+
+      <header>
+        <div class="logo-box">
+          <img class="logo" src="https://cdn.glitch.com/d8abcd84-2242-4638-b0af-8edd88ecbdee%2FSQg6I5Rw.png?v=1633074748224" alt="Down the river logo">
+        </div>
+
+      <nav>
+        <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="adventure.html">Adventures</a></li>
+        <li><a href="mystery.html">Mystery</a></li>
+        <li><a href="site-plan.html">Site Plan</a></li> 
+        <li><a href="resources.html">Resources</a></li>  
+        <li><a href="positioning.html">Positioning Activity</a></li> 
+        </ul>
+      </nav>
+        
+      <div class="banner-box">
+        <img class="banner" src="https://cdn.glitch.com/d8abcd84-2242-4638-b0af-8edd88ecbdee%2Fbe4f91d4-82ac-4e1e-87bf-709e04ad3647.image.png?v=1633074869784" alt="banner">
+      </div>
+        
+    </header>  
+
+    <main>
+      
+    <div class="home-grid">
+      
+      <section class="home-paragraph-1"> 
+         <h2 class="home-headline-1">We Run Rivers to Relax</h2>
+         <p class="home-paragraph-1">We believe that there is nothing like a river trip for relaxing. That is why we subscribe to the dry oar philosophy of boating. Keeping your oars dry for us means taking time to look around and notice the beauty that surrounds the rivers we love.</p>
+         <img class="home-right-image" src="https://cdn.glitch.com/d8abcd84-2242-4638-b0af-8edd88ecbdee%2F87ab6a79-ba50-4c78-a8c3-49310ce93c44.image.png?v=1633077595209" alt="banner picture">        
+      </section>   
+        
+      <section class="home-paragraph-2"> 
+         <h2 class="home-headline-2">Rapids are Fun</h2>
+         <p class="home-paragraph-2">That doesn't mean we don't also like rapids. Opposites in all things after all. We believe that that tenseness that comes when you are looking down the tongue of a big string of waves makes you appreciate the calm beautiful water that always follows even more.</p>
+         <img class="home-left-image" src="https://cdn.glitch.com/d8abcd84-2242-4638-b0af-8edd88ecbdee%2F561e06ff-7bd9-48f6-ab54-51c1fbe57c1f.image.png?v=1633077341663" alt="banner picture">  
+      </section>
+      
+      <section class="home-paragraph-3"> 
+          <h2 class="home-HEADLINE-3">Come Run with Us</h2> 
+          <p class="home-paragraph-3">We invite you to come relax with us on one of the amazing rivers we visit. Check out our trips and let us know which one best suits you. We're waiting to hear from you!</p>
+      </section>
+      
+    </div>
+      
+    </main>
+
+    <footer>
+    <p id="info">&copy;2021 Rafting Adventures • Wei Sheng Ng  •  WDD130-11</p>
+
+     <div class="social">
+       
+       <a class="socialmedia" target="_blank" href="https://www.facebook.com"><img class="icon" src="https://cdn.glitch.me/d8abcd84-2242-4638-b0af-8edd88ecbdee%2Fe6b73658-9783-42e4-b19e-049952162548.image.png?v=1633585205521" alt="Facebook" ></a>
+       <a class="socialmedia" target="_blank" href="https://www.instagram.com"><img class="icon" src="https://cdn.glitch.me/d8abcd84-2242-4638-b0af-8edd88ecbdee%2FInstagram_logo_2016.svg.png?v=1633585107237" alt="Instagram" ></a>
+       <a class="socialmedia" target="_blank" href="https://www.youtube.com"><img class="icon" src="https://cdn.glitch.me/d8abcd84-2242-4638-b0af-8edd88ecbdee%2F6e79b412-dde0-4478-b26e-ef4a8cdd05c0.image.png?v=1633585322641" alt="Youtube" ></a>
+      
+      </div>
+    </footer>
+      
+    </div>  
+  </body>
+</html>
+  
